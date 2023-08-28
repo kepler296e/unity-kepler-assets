@@ -17,7 +17,6 @@ Easily manage object interactions with intuitive controls:
 - Rotate objects by pressing and scrolling the `mouse wheel`.
 - `Ctrl + mouse wheel` to cycle through picked up objects.
 <br>
-<br>
 
 <img src="Gifs/objcntrl1.gif" width="50%" height="50%" />
 <img src="Gifs/objcntrl2.gif" width="50%" height="50%" />
@@ -60,7 +59,6 @@ Manage your in-game items efficiently:
 - Drop object by pressing `G`.
 - Scroll the `mouse wheel` to cycle through your inventory.
 <br>
-<br>
 
 <img src="Gifs/inventory.gif" width="50%" height="50%" />
 
@@ -90,7 +88,6 @@ private float ejectPower = 40f;
 Create a captivating atmosphere with a dynamic day-night cycle:
 
 - Adjust the day/night time speed to your preference.
-<br>
 <br>
 
 <img src="Gifs/daynight.gif" width="50%" height="50%" />
